@@ -31,8 +31,6 @@ Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
 ---
 
 ![](assets/20250628_103321_Scan_20191004.png){width="100"}
-![](assets/20250628_103321_Scan_20191004.png){width="100"}
-![](assets/20250628_103321_Scan_20191004.png){width="100"}
 
 Sint labore Lorem aliqua enim nisi sint minim sint voluptate commodo aute incididunt amet. Nostrud duis nisi officia ut ex laboris irure. **Sit cillum** dolore tempor nostrud tempor. Sunt amet dolor irure ea anim eu ullamco *ipsum Lorem* anim et occaecat qui.
 
@@ -55,14 +53,14 @@ import tensorflow as tf
 ## Section 2
 
 <figure markdown="span">
-  ![Image title](/about/assets/graph1.png){ width="500" }
+  ![Image title](../about/assets/graph1.png){ width="500" }
   <figcaption>Image caption</figcaption>
 </figure>
 Deserunt voluptate est non ipsum enim ullamco esse exercitation nulla nostrud consectetur cillum. Laboris voluptate dolor et cillum anim eiusmod nostrud cupidatat anim pariatur veniam deserunt consectetur. Qui proident eiusmod ad commodo incididunt enim culpa. Dolore id nulla pariatur sint.
 
 ## Section 3
 
-![Image title](/about/assets/graph1.png){ width="500" align="right"}
+![Image title](../about/assets/graph1.png){ width="500" align="right"}
 /// caption
 Figure 3a: adfadfsasf
 ///
