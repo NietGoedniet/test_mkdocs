@@ -3,11 +3,18 @@ site_description: Pirus Unggul Services is a leading provider of innovative solu
 site_url: https://example.com
 
 theme:
+  logo: about/assets/Logo_KE_transparent.png
+  favicon: about/assets/Logo_KE_transparent.png
+  # icon:
+  #   previous: fontawesome/solid/angle-left
+  #   next: fontawesome/solid/angle-right
   name: material
   # theme:
-  palette: 
+  palette:
+
     # Palette toggle for light mode
     - scheme: default
+      primary: cyan
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
@@ -27,6 +34,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.path
     - search.suggestions
     - search.highlight
     - search.share
@@ -43,6 +51,9 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      # clickable_checkbox: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
@@ -56,6 +67,13 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      title: On this page
+
+extra:
+  generator: false
+copyright: Copyright &copy; 2025 - Pirus Unggul Services
+
 
 nav:
   - Home: index.md
