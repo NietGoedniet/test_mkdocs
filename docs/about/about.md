@@ -22,9 +22,14 @@ Fugiat non in sunt ex minim anim consectetur duis aute minim et consequat ad. Ut
 
 ### Part 2
 <figure>
-  <img src="/about/assets/graph1.png" alt="Super Overview" width="600">
-  <figcaption>Figure: Super Overview of the data loading process.</figcaption>
+  <img src="../assets/graph1.png" alt="Super Overview" width="600">
+  <figcaption>Figure: Figure Tag.</figcaption>
 </figure>
+
+![Image title](assets/graph1.png){ width="400" align="right" }
+///caption
+Image caption
+///
 Ullamco amet magna exercitation tempor. Dolore veniam non minim adipisicing cillum amet. Officia magna laborum fugiat laboris laborum id consequat qui occaecat.
 
 Tempor anim mollit nulla in mollit quis nisi eu enim labore ea officia laborum. Do amet nostrud proident pariatur deserunt do eu. Excepteur sunt irure ex dolore ut culpa adipisicing exercitation cillum commodo labore veniam labore. Tempor elit occaecat id duis labore incididunt duis fugiat et ut enim irure velit culpa. Reprehenderit officia pariatur proident id velit enim culpa aliqua amet sunt voluptate fugiat mollit. Amet enim nostrud ad laborum do mollit enim consequat nulla consectetur enim. Reprehenderit dolor excepteur culpa nostrud.
