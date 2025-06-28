@@ -12,7 +12,7 @@ Cillum cillum voluptate quis tempor cupidatat fugiat veniam officia ad. Consequa
 
 ### Part 1
 
-![text](/images/graph1.png){width=400, align=right}
+![text](/about/assets/graph1.png){width=400, align=right}
 
 Excepteur mollit dolore minim aliquip Lorem cupidatat. Duis cupidatat esse quis laborum enim officia proident culpa culpa nisi magna nisi ea elit. Deserunt pariatur eiusmod dolor culpa. Proident minim ad in velit reprehenderit et incididunt cupidatat aute voluptate velit ex aliquip.
 
@@ -22,7 +22,7 @@ Fugiat non in sunt ex minim anim consectetur duis aute minim et consequat ad. Ut
 
 ### Part 2
 <figure>
-  <img src="/images/graph1.png" alt="Super Overview" width="600">
+  <img src="/about/assets/graph1.png" alt="Super Overview" width="600">
   <figcaption>Figure: Super Overview of the data loading process.</figcaption>
 </figure>
 Ullamco amet magna exercitation tempor. Dolore veniam non minim adipisicing cillum amet. Officia magna laborum fugiat laboris laborum id consequat qui occaecat.

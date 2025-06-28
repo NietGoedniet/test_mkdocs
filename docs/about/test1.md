@@ -55,14 +55,14 @@ import tensorflow as tf
 ## Section 2
 
 <figure markdown="span">
-  ![Image title](/images/graph1.png){ width="500" }
+  ![Image title](/about/assets/graph1.png){ width="500" }
   <figcaption>Image caption</figcaption>
 </figure>
 Deserunt voluptate est non ipsum enim ullamco esse exercitation nulla nostrud consectetur cillum. Laboris voluptate dolor et cillum anim eiusmod nostrud cupidatat anim pariatur veniam deserunt consectetur. Qui proident eiusmod ad commodo incididunt enim culpa. Dolore id nulla pariatur sint.
 
 ## Section 3
 
-![Image title](/images/graph1.png){ width="500" align="right"}
+![Image title](/about/assets/graph1.png){ width="500" align="right"}
 /// caption
 Figure 3a: adfadfsasf
 ///
