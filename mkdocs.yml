@@ -1,5 +1,7 @@
-site_name: Pirus Unggul Docs
+site_name: Pirus Unggul Services
+site_description: Pirus Unggul Services is a leading provider of innovative solutions in the field of
 site_url: https://example.com
+
 theme:
   name: material
   # theme:
@@ -15,6 +17,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
   features:
     - navigation.instant
     - navigation.instant.progress
