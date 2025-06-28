@@ -12,7 +12,7 @@ Cillum cillum voluptate quis tempor cupidatat fugiat veniam officia ad. Consequa
 
 ### Part 1
 
-![text](/about/assets/graph1.png){width=400, align=right}
+![text](../about/assets/graph1.png){width=400, align=right}
 
 Excepteur mollit dolore minim aliquip Lorem cupidatat. Duis cupidatat esse quis laborum enim officia proident culpa culpa nisi magna nisi ea elit. Deserunt pariatur eiusmod dolor culpa. Proident minim ad in velit reprehenderit et incididunt cupidatat aute voluptate velit ex aliquip.
 
