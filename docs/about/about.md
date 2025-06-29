@@ -1,11 +1,11 @@
 ---
+icon: material/account-group
 tags:
   - Recall
   - Dataloading
-icon: material/account-group
 ---
 
-## Overview :fontawesome-regular-face-laugh-wink:
+## Overview
 
 Aute culpa cupidatat elit id labore adipisicing commodo adipisicing duis pariatur. Sunt magna ad laboris occaecat ad qui sint. Exercitation ut laborum sint non laboris Lorem voluptate.
 
