@@ -30,8 +30,8 @@ theme:
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
-    - navigation.tabs
-    - navigation.sections
+    # - navigation.tabs
+    # - navigation.sections
     - navigation.expand
     - navigation.top
     - navigation.path
@@ -78,7 +78,9 @@ copyright: Copyright &copy; 2025 - Pirus Unggul Services
 nav:
   - Home: index.md
   - About:
-      - Overview: about/about.md
-      - Team: about/test1.md
-
+    - Overview: about/about.md
+    - Team: about/test1.md
+  - Manuals:
+    - Overview: manuals/index.md
+    - Recall RDDs: manuals/recall-rdds.md
   - Tags: tags.md

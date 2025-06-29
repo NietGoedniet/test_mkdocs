@@ -2,6 +2,7 @@
 tags:
      - HTML5
      - CSS
+icon: material/alert-circle-outline
 ---
 
 ## Introduction
