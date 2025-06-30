@@ -14,13 +14,14 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary: cyan
+      primary: amber
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
+      primary: amber
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -30,8 +31,8 @@ theme:
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
-    # - navigation.tabs
-    # - navigation.sections
+    - navigation.tabs
+    - navigation.sections
     - navigation.indexes
     - navigation.expand
     - navigation.top
@@ -60,6 +61,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.details
+  - admonition
   - pymdownx.tabbed:
       alternate_style: true
   - attr_list
@@ -81,10 +84,17 @@ copyright: Copyright &copy; 2025 - Pirus Unggul Services
 
 nav:
   - Home: index.md
-  - About:
-    - Overview: about/about.md
-    - Team: about/test1.md
+  # - About:
+  #   - Overview: about/about.md
+  #   - Team: about/test1.md
   - Manuals:
     - Overview: manuals/index.md
     - Recall RDDs: manuals/recall-rdds.md
+    - Recall Interfaces: manuals/recall-interfaces.md
+  - Recall Training:
+    - Overview: recall_training/index.md
+    - Recall in Shell: recall_training/recall-in-shell.md
+    - Recall AL: recall_training/recall-al.md
+    - Recall ROW: recall_training/recall-row.md
+    - Recall TLP: recall_training/recall-tlp.md
   - Tags: tags.md

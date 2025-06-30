@@ -2,14 +2,15 @@
 icon: material/account-cowboy-hat
 tags:
   - Recall
-  - Data Dictionaries
-  - RDDs
+  - Interfaces
 ---
 
-# Recall RDDs (Recall Data Dictionaries)
+# Recall Interfaces
+
+![text](../manuals/assets/Recall_interfaces.png){width=800, align=right}
 
 
-## Maintenance
+## Overview
 - fgsfg
 - ssdfg
 - sdfgsdf
@@ -20,5 +21,5 @@ tags:
 - sfdg
 - sdfg
 
-## Recall RDDs
+
 

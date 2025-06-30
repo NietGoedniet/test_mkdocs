@@ -1,19 +1,25 @@
 ---
-icon: material/account-group
+icon: material/signal-variant
 title: PUS Manuals
 ---
-
-:fontawesome-brands-html5:
-
-:fontawesome-solid-arrow-down-wide-short:{.icons}
 
 # Recall RDDs (Recall Data Dictionaries)
 Some execption [^1] are possible, consectetur adipiscing elit.[^2]
 
 
+
+??? notes "Tips & Hints"
+    :material-signal-variant:This training will be provided to identified paticipants
+
+    **Asdfasdf**
+
+    - asdfasdfasdf
+    - adsf
+    - adfs
+    - adsf
+
 [^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 [^2]: amet, consectetur adipiscing elit.
-
 
 <div class="grid cards" markdown>
 
