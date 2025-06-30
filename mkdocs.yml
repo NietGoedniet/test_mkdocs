@@ -1,14 +1,14 @@
-# site_name: Pirus Unggul Services
-site_name: " "
+site_name: Pirus Unggul Services
 site_description: Pirus Unggul Services is a leading provider of innovative solutions in the field of
 site_url: https://example.com
 
 theme:
-  logo: about/assets/PUS_logo.png
-  favicon: about/assets/PUS_logo.png
+  # logo: about/assets/PUS_logo.png
+  # favicon: about/assets/PUS_logo.png
   # icon:
   #   previous: fontawesome/solid/angle-left
   #   next: fontawesome/solid/angle-right
+
   name: material
   # theme:
   palette:
