@@ -2,30 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2025-06-29</lastmod>
+         <lastmod>2025-06-30</lastmod>
     </url>
     <url>
          <loc>https://example.com/tags/</loc>
-         <lastmod>2025-06-29</lastmod>
+         <lastmod>2025-06-30</lastmod>
     </url>
     <url>
          <loc>https://example.com/about/about/</loc>
-         <lastmod>2025-06-29</lastmod>
+         <lastmod>2025-06-30</lastmod>
     </url>
     <url>
          <loc>https://example.com/about/test1/</loc>
-         <lastmod>2025-06-29</lastmod>
+         <lastmod>2025-06-30</lastmod>
     </url>
     <url>
          <loc>https://example.com/manuals/</loc>
-         <lastmod>2025-06-29</lastmod>
+         <lastmod>2025-06-30</lastmod>
     </url>
     <url>
          <loc>https://example.com/manuals/rdd_maintenance/</loc>
-         <lastmod>2025-06-29</lastmod>
+         <lastmod>2025-06-30</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/manuals/recall-interfaces/</loc>
+         <lastmod>2025-06-30</lastmod>
     </url>
     <url>
          <loc>https://example.com/manuals/recall-rdds/</loc>
-         <lastmod>2025-06-29</lastmod>
+         <lastmod>2025-06-30</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/recall_training/</loc>
+         <lastmod>2025-06-30</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/recall_training/recall-al/</loc>
+         <lastmod>2025-06-30</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/recall_training/recall-in-shell/</loc>
+         <lastmod>2025-06-30</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/recall_training/recall-row/</loc>
+         <lastmod>2025-06-30</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/recall_training/recall-tlp/</loc>
+         <lastmod>2025-06-30</lastmod>
     </url>
 </urlset>
