@@ -1,5 +1,5 @@
 ---
-icon: material/account-cowboy-hat
+icon: material/menu-right
 tags:
   - Recall
   - Data Dictionaries
@@ -9,16 +9,5 @@ tags:
 # Recall RDDs (Recall Data Dictionaries)
 
 
-## Maintenance
-- fgsfg
-- ssdfg
-- sdfgsdf
-- sfgsddfg
 
-## Data Directories
-- dfs
-- sfdg
-- sdfg
-
-## Recall RDDs
 

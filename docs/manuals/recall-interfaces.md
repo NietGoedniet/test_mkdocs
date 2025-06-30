@@ -1,5 +1,5 @@
 ---
-icon: material/account-cowboy-hat
+icon: material/menu-right
 tags:
   - Recall
   - Interfaces
@@ -7,19 +7,7 @@ tags:
 
 # Recall Interfaces
 
-![text](../manuals/assets/Recall_interfaces.png){width=800, align=right}
 
-
-## Overview
-- fgsfg
-- ssdfg
-- sdfgsdf
-- sfgsddfg
-
-## Data Directories
-- dfs
-- sfdg
-- sdfg
 
 
 

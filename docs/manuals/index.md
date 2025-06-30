@@ -3,7 +3,9 @@ icon: material/signal-variant
 title: PUS Manuals
 ---
 
-# Recall RDDs (Recall Data Dictionaries)
+# Pirus Unggul Services - Manuals
+
+# Test Page
 Some execption [^1] are possible, consectetur adipiscing elit.[^2]
 
 
@@ -58,20 +60,3 @@ Some execption [^1] are possible, consectetur adipiscing elit.[^2]
 
 </div>
 
-# Maintenance
-- fgsfg
-- ssdfg
-- sdfgsdf
-- fsfgsf
-- sdfgsdfg
-- sdfsfg
-- sdfg
-- sdffgsdfg
-- sfgsddfg
-
-# Data Directories
-- dfs
-- sfdg
-- sdfg
-
-# Recall RDDs
